@@ -1,4 +1,12 @@
-## I'm Sergio Santiago, a Fronted Developer that loves videogames!
+## I'm Sergio Santiago, a Fronted Developer from A Coruña (Spain) that loves videogames!
+
+My strengths are front-end development with ReactJS and Angular and I have skills to create and layout my own components with the web standards (HTML5-CSS3-Javascript) without using external libraries. I have also done small back-end developments, but I need to keep learning to be useful in this section.
+
+My goal is to keep training, improve my skills and find projects to put my skills into practice.
+
+I just became a dad, so my priority is to get a job that allows me to work remotely as much as possible.
+
+My communication skills in English do not allow me to maintain a fluent oral conversation, but I can read/write without any problem. 
 
 ### Connect with me 
 
